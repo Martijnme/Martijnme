@@ -1,6 +1,6 @@
 Web Developer from 🇳🇱
 
-[![Martijn's' Github Stats](https://github-readme-stats.vercel.app/api?username=Martijnme&count_private=true&show_icons=true)](https://github.com/Martijnme)
+[![Martijn's' Github Stats](https://github-readme-stats.vercel.app/api?username=Martijnme&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Martijnme)
 
 <!--
 **Martijnme/Martijnme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
